@@ -1,18 +1,36 @@
-### Hi there 👋
+<!-- Hi there, I'm Snaehath 👋 -->
+
+# 👋 Hi, I'm Snaehath
+
+I'm a passionate **developer** specializing in building modern **web applications** with a focus on **performance** and great **user experiences**. I also work with **Generative AI**, integrating intelligent features into applications to create smarter, more dynamic user interactions.
+
+## 🛠️ Tech Stack
+
+- **Languages:** JavaScript, TypeScript, Python, SQL
+- **Frontend:** React, Next.js, TailwindCSS, shadcn/UI, EJS
+- **Backend:** Node.js, Express, Socket.io
+- **Database:** MongoDB, SQL
+- **AI/ML & Computer Vision:** TensorFlow, OpenCV
+
+## 🚀 Featured Project
+
+### [ReadHub](https://readhub-frontend.onrender.com/)
+A platform to discover and read content. Think of it as a modern digital library — but more than just books. It combines the latest in news, e-books, and includes chat-based assistance for an interactive and intelligent reading experience.
+
+Built with a modern tech stack, Readhub offers a seamless and engaging way to stay informed and inspired.
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/Snaehath%20P.-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snaehath-p-755997364/)
+
+## 📈 GitHub Stats
+
+![Snaehath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snaehath&show_icons=true&theme=radical)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
 <!--
-**Snaehath/Snaehath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<a href="https://app.daily.dev/overdoxx"><img src="https://api.daily.dev/devcards/v2/Fxo5dcpZFf9zdbHtGEsYf.png?type=default&r=6oz" width="356" alt="Snaehath P's Dev Card"/></a>
+Want to add more? Let me know!
 -->
-
