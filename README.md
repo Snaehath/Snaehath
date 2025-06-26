@@ -23,9 +23,11 @@ Built with a modern tech stack, Readhub offers a seamless and engaging way to st
 
 [![LinkedIn](https://img.shields.io/badge/Snaehath%20P.-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snaehath-p-755997364/)
 
+<!--
 ## 📈 GitHub Stats
 
 ![Snaehath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snaehath&show_icons=true&theme=radical)
+-->
 
 ---
 
