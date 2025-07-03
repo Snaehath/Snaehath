@@ -19,6 +19,11 @@ A platform to discover and read content. Think of it as a modern digital library
 
 Built with a modern tech stack, Readhub offers a seamless and engaging way to stay informed and inspired.
 
+## 📁 Portfolio
+
+Check out my full portfolio and other projects at  
+👉 [**snaehath.github.io/portfolio**](https://snaehath.github.io/portfolio/#home)
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/Snaehath%20P.-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snaehath-p-755997364/)
