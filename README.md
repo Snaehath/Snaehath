@@ -14,7 +14,7 @@ I'm a passionate **developer** specializing in building modern **web application
 
 ## 🚀 Featured Project
 
-### [ReadHub](https://readhub-frontend.onrender.com/)
+### [ReadHub](https://readhub-frontend.vercel.app/)
 A platform to discover and read content. Think of it as a modern digital library — but more than just books. It combines the latest in news, e-books, and includes chat-based assistance for an interactive and intelligent reading experience.
 
 Built with a modern tech stack, Readhub offers a seamless and engaging way to stay informed and inspired.
